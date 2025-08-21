@@ -1,5 +1,5 @@
 Hi, I’m Rakibil Shakil
-I’m interested in Teaching and learning
+I’m trying to be an Full stack Machine Learning Engineer
 
 <!---
 rakibulhasanshakil/rakibulhasanshakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
