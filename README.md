@@ -1,134 +1,132 @@
-👋 Hi, I'm Rakibul Hasan Shakil
+# Hi, I'm Rakibul Hasan Shakil 👋
 
-💻 Machine Learning Engineer | Researcher | Data Analyst
-📍 Dhaka, Bangladesh
+**Machine Learning Engineer | Researcher | Data Analyst**
 
-I am passionate about Artificial Intelligence, Machine Learning, and Data Analytics. I enjoy building intelligent systems, analyzing complex datasets, and developing scalable software solutions that solve real-world problems.
+📍 Dhaka, Bangladesh | 📧 [hasanshakilr@gmail.com](mailto:hasanshakilr@gmail.com) | 📱 +88 01959995961
 
-My work focuses on machine learning, deep learning, and full-stack intelligent systems, with research experience in fraud detection, medical AI, and bias mitigation in AI models.
+---
 
-🚀 About Me
+## 🚀 About Me
 
-🔬 Researcher in Machine Learning & Deep Learning
+I'm passionate about **Artificial Intelligence, Machine Learning, and Data Analytics**. I enjoy building intelligent systems, analyzing complex datasets, and developing scalable software solutions that solve real-world problems.
 
-📊 Experienced in data analysis and predictive modeling
+My work focuses on:
+- 🔬 Machine Learning & Deep Learning
+- 📊 Data Analysis & Predictive Modeling  
+- 💻 Full-Stack Development
+- 📚 Explainable AI & AI Fairness
+- 🧠 Teaching & Mentoring Technical Concepts
 
-💻 Full-stack development experience
+---
 
-📚 Interested in Explainable AI and AI fairness
+## 🛠️ Technical Skills
 
-🧠 Passionate about teaching and mentoring technical concepts
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🛠️ Technical Skills
-Programming
+### Machine Learning & AI
+- **Core:** Machine Learning, Deep Learning
+- **Frameworks:** TensorFlow, Keras
+- **Specializations:** Natural Language Processing (NLP), Fraud Detection, Medical AI
+- **Focus Areas:** Explainable AI (XAI), AI Fairness, Bias Mitigation
 
-Python
+### Web Development
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP, .NET Core
+- **Full-Stack:** Integration of intelligent systems with web applications
 
-C++
+### Data & Analytics
+- Data Analysis & Visualization
+- Predictive Modeling
+- Large Dataset Processing
+- Statistical Analysis
 
-Java
+---
 
-C# (.NET Core)
+## 💼 Professional Experience
 
-JavaScript
+### 🔬 Research Associate
+**Smile Care Limited** — Dhaka, Bangladesh  
+*2025 – 2026*
 
-Machine Learning & AI
+- Conducted applied AI research resulting in two journal manuscripts under review
+- Developed machine learning and deep learning models for fraud detection
+- Researched fairness-aware AI models for ECG classification
+- Analyzed large-scale clinical and transactional datasets
+- Collaborated with research teams for model development and validation
 
-Machine Learning
+### 🎓 Student Assistant
+**Department of Computer Science, American International University-Bangladesh**
 
-Deep Learning
+- Assisted students with academic system issues and technical support
+- Provided support for course registration and academic processes
+- Helped improve student support operations
 
-TensorFlow
+---
 
-Natural Language Processing (NLP)
+## 📂 Research Projects
 
-Web Development
+### 📄 Fraud Detection Using AI
+**Title:** Comparative Analysis of Machine Learning, Deep Learning, and Explainable AI Models for Fraud Detection in Large-Scale Credit Card Transactions
 
-HTML
+**Key Focus:**
+- Model performance comparison across traditional ML and DL approaches
+- Explainability of AI systems using interpretability techniques
+- Scalability solutions for large datasets
 
-CSS
+**Status:** Journal manuscript under review
 
-PHP
+### 📄 Bias Mitigation in Medical AI
+**Title:** Fairness-Aware Evaluation and Mitigation of Demographic Bias in ECG Classification
 
-JavaScript
+**Key Focus:**
+- Demographic bias detection in AI models
+- Fairness-aware machine learning approaches
+- Ethical AI development and deployment
 
-Data & Analytics
+**Status:** Journal manuscript under review
 
-Data analysis
+---
 
-Predictive modeling
+## 🌱 Current Interests
 
-Large dataset processing
+- 🔍 Explainable AI (XAI) & Model Interpretability
+- ⚖️ AI Fairness & Ethical AI Development
+- 🧠 Advanced Deep Learning Architectures
+- 📊 Data-Driven Intelligent Systems
+- 🚀 Scalable ML Solutions
 
-💼 Professional Experience
-🔬 Research Associate
+---
 
-Smile Care Limited — Dhaka, Bangladesh
-2025 – 2026
+## 📊 GitHub Stats
 
-Conducted applied AI research resulting in two journal manuscripts under review
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
 
-Worked on machine learning and deep learning models for fraud detection
+*Note: Update `YourGitHubUsername` with your actual GitHub username*
 
-Researched fairness-aware AI models for ECG classification
+---
 
-Analyzed large clinical and transactional datasets
+## 📫 Get In Touch
 
-Collaborated with research teams for model development and validation
+- **Email:** [hasanshakilr@gmail.com](mailto:hasanshakilr@gmail.com)
+- **Phone:** +88 01959995961
+- **Location:** Dhaka, Bangladesh
+- **GitHub:** [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)](https://github.com/rakibulhasanshakil) *(Update this)*
+- **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile) *(Update this)*
 
-🎓 Student Assistant
+---
 
-Department of Computer Science
-American International University-Bangladesh
+## 💡 What I'm Currently Working On
 
-Assisted students with academic system issues
+- 🔬 Advanced research in AI fairness and explainability
+- 💻 Building end-to-end ML applications
+- 📚 Contributing to the AI/ML community through mentoring
+- 🚀 Exploring scalable deep learning solutions
 
-Provided support for course registration and academic processes
+---
 
-Helped improve student support operations
-
-📂 Research Work
-📄 Fraud Detection Using AI
-
-Title:
-Comparative Analysis of Machine Learning, Deep Learning, and Explainable AI Models for Fraud Detection in Large-Scale Credit Card Transactions
-
-Focus:
-
-Model performance comparison
-
-Explainability of AI systems
-
-Scalability for large datasets
-
-📄 Bias Mitigation in Medical AI
-
-Title:
-Fairness-Aware Evaluation and Mitigation of Demographic Bias in ECG Classification
-
-Focus:
-
-Bias detection in AI models
-
-Fairness-aware machine learning
-
-Ethical AI development
-
-📊 GitHub Stats
-
-🌱 Current Interests
-
-Explainable AI (XAI)
-
-AI fairness and ethics
-
-Deep learning architectures
-
-Data-driven intelligent systems
-
-📫 Contact Me
-
-📧 Email: hasanshakilr@gmail.com
-
-📱 Phone: +88 01959995961
-📍 Location: Dhaka, Bangladesh
+**Let's collaborate on innovative AI/ML projects! Feel free to reach out.** 🤝
