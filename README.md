@@ -115,7 +115,7 @@ My work focuses on:
 - **Email:** [hasanshakilr@gmail.com](mailto:hasanshakilr@gmail.com)
 - **Phone:** +88 01959995961
 - **Location:** Dhaka, Bangladesh
-- **GitHub:** [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)](https://github.com/rakibulhasanshakil) *(Update this)*
+- **GitHub:** [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)](https://github.com/rakibulhasanshakil) *
 - **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile) *(Update this)*
 
 ---
